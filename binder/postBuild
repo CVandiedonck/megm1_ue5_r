@@ -17,3 +17,5 @@ R -e "BiocManager::install()"
 # https://bioconductor.org/packages/release/bioc/html/Biostrings.html
 R -e "BiocManager::install('Biostrings')"
 R -e "BiocManager::install('biomaRt')"
+R -e "remove.packages('ggplot2')"
+R -e "remotes::install_version('ggplot2', version='3.3.6')"
