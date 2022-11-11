@@ -28,6 +28,8 @@ dependencies:
   - r-factominer
   - r-factoextra
   - r-dt
+  - r-igraph
+  - r-polyclip
   # JupyterLab Variable inspector
   # https://github.com/lckr/jupyterlab-variableInspector
   - r-repr
