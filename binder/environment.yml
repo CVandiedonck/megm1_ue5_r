@@ -24,7 +24,6 @@ dependencies:
   - r-base>=4
   - r-tidyverse
   - r-rcpp
-  - r-tidyverse
   - r-factominer
   - r-factoextra
   - r-dt
@@ -33,6 +32,8 @@ dependencies:
   - r-writexl
   - r-readxl
   - r-rcolorbrewer
+  - r-gplots
+  - r-statmod
   # JupyterLab Variable inspector
   # https://github.com/lckr/jupyterlab-variableInspector
   - r-repr

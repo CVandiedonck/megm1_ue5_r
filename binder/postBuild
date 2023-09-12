@@ -18,3 +18,4 @@ R -e "BiocManager::install()"
 # https://bioconductor.org/packages/release/bioc/html/Biostrings.html
 R -e "BiocManager::install('Biostrings', update = FALSE)"
 R -e "BiocManager::install('biomaRt', update = FALSE)"
+R -e "BiocManager::install('limma', update = FALSE)"
