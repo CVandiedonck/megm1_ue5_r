@@ -29,6 +29,11 @@ dependencies:
   - r-factoextra
   - r-dt
   - r-markdown
+  - r-tidyverse
+  - r-writexl
+  - r-readxl
+  - r-rcolorbrewer
+  - r-swirl
   # JupyterLab Variable inspector
   # https://github.com/lckr/jupyterlab-variableInspector
   - r-repr
